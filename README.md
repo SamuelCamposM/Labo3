@@ -2,7 +2,7 @@
 
 # Materia: Programación 2
 
-# Nombre completo
+# Nombre completo: Samuel Benjamin Campos Melara
 
 ## Comandos basicos de git
 
@@ -19,4 +19,5 @@
 - git checkout: Cambia de rama o restaura archivos en tu árbol de trabajo.
 
 - git rebase: Reaplica commits en una base diferente. Es útil para mantener un historial de commits limpio.
- 
+
+ ![Imagen de prueba](https://github.com/user-attachments/assets/a4aa0538-c7bb-4cc7-a085-ade0527a1949)
